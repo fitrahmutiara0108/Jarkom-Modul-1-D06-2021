@@ -151,3 +151,4 @@ cek ip address melalui command prompt : ipconfig
 
 ## Kendala yang dialami
 1. Koneksi internet kurang mendukung
+2. Ketika mencoba filter, paket terkadang tidak muncul
