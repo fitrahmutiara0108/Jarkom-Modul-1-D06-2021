@@ -148,3 +148,6 @@ Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 dengan menggunakan `scr host 192.168.65.188`
 cek ip address melalui command prompt : ipconfig
 ![image](https://user-images.githubusercontent.com/81247727/134287923-7847b121-436a-456c-868e-c1e029895412.png)
+
+## Kendala yang dialami
+1. Koneksi internet kurang mendukung
